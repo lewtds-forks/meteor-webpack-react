@@ -1,4 +1,4 @@
-var host = '0.0.0.0';
+var host = 'localhost';
 var webpackPort = 9090;
 var meteorPort = 3000;
 
